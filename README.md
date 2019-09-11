@@ -1,1 +1,1 @@
-# Cypress end to end test for mydiary app
+# Cypress end to end test for ride-my-way app

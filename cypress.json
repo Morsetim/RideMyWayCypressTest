@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://ride-my-way-client.herokuapp.com/",
+    "integrationFolder": "cypress/integration"
+}
