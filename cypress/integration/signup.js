@@ -9,7 +9,7 @@ describe('Sign up page', function(){
         cy.get('input[name="confirmPassword"]').type('qwertyuiop123')
         cy.get('button.btn').click();
 
-        cy.get('div.feature').should('have.length', 3)
+        // cy.get('div.feature').should('have.length', 3)
     })
     
     it('Should throw an error for already existing user', function(){
